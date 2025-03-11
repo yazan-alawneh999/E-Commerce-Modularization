@@ -2,8 +2,8 @@
 An eCommerce app based on Clean Architecture, MVVM, Ktor, Koin.
 
 
-![home](https://github.com/user-attachments/assets/af666ff3-58ae-4d49-ae91-d510de9f423d)
-![Add shipping address](https://github.com/user-attachments/assets/9deb33cc-8f98-4349-9cdd-1acfc596c546)
-![success](https://github.com/user-attachments/assets/b3267b0d-2950-4942-9c2b-4f97a056a005)
-![Sign up page](https://github.com/user-attachments/assets/59271a1f-ac6f-4734-9da2-819aed35d63b)
-![Login page](https://github.com/user-attachments/assets/fb2bdd2e-6caa-4f65-ad7a-e4e3b48111cc)
+![Add shipping address](https://github.com/user-attachments/assets/b911aa9d-7ed4-431e-aa73-6b5323f37c35)
+![success](https://github.com/user-attachments/assets/fc83310f-abd9-4c04-8417-7e1c489ee917)
+![Sign up page](https://github.com/user-attachments/assets/3b5d98ed-772a-46d4-8dc2-1eb286c8d581)
+![Login page](https://github.com/user-attachments/assets/c3088c7d-884b-4809-a78c-0b1085bf9c67)
+![home](https://github.com/user-attachments/assets/4d1d97e2-bc1f-4538-9334-e57bfe14fc9a)
